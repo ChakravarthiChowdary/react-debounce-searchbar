@@ -11,9 +11,9 @@ It is a Full Stack MERN APP.
 
 ## Demo
 
-![alt text](https://github.com/ChakravarthiChowdary/Expense-Tracker-Frontend/blob/master/images/app-1.PNG)
+![alt text](https://github.com/ChakravarthiChowdary/react-debounce-searchbar/blob/master/src/images/app-1.PNG)
 
-![alt text](https://github.com/ChakravarthiChowdary/Expense-Tracker-Frontend/blob/master/images/app-2.PNG)
+![alt text](https://github.com/ChakravarthiChowdary/react-debounce-searchbar/blob/master/src/images/app-2.PNG)
 
 ## Run it locally
 
